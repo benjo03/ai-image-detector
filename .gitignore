@@ -1,0 +1,14 @@
+# Data and model files are too big for GitHub
+data/
+*.zip
+outputs/*.pt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# Kaggle key - NEVER upload this
+kaggle.json
